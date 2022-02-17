@@ -1,0 +1,8 @@
+calculate the sum of squares of a given input of numbers
+
+LET N=input numbers
+LET sumSquares=0
+FOR each number in N
+LET squared=N*N
+  sumSquares=sumSquares+ squared
+PRINT sumSquares
