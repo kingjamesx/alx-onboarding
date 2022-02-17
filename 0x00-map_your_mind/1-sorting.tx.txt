@@ -1,0 +1,9 @@
+LET y=[]
+LET x=INPUT(a,b,c)
+  OUTPUT(x)
+FOR numbers in X 
+If(a>b>c) push into y
+If(b>a>c) push into y
+If(c>a>b) push into y
+End If
+PRINT 'y'
