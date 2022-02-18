@@ -1,0 +1,7 @@
+LET counter=0
+LET INPUT= numbers
+ if numbers is positive
+  counter=counter+numbers
+ if numbers is negative
+  print 'counter'
+END IF
